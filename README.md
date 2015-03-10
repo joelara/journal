@@ -1,0 +1,2 @@
+# journal
+assignment 02
